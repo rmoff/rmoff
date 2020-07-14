@@ -9,3 +9,5 @@ Robin is a Senior Developer Advocate at Confluent, the company founded by the or
 ✍️ Blog: http://cnfl.io/rmoff 
 
 🎥 Youtube: https://www.youtube.com/c/rmoff
+
+video::MxiKfMocXxM[youtube]
