@@ -1,3 +1,5 @@
+image::http://rmoff.net/images/2020/07/github_banner.jpg[]
+
 = `whoami`
 
 Robin is a Senior Developer Advocate at Confluent, the company founded by the original creators of Apache Kafka, as well as an Oracle ACE Director (Alumnus). 
@@ -10,4 +12,3 @@ Robin is a Senior Developer Advocate at Confluent, the company founded by the or
 
 🎥 Youtube: https://www.youtube.com/c/rmoff
 
-video::MxiKfMocXxM[youtube]
