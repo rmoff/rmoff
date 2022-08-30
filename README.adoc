@@ -1,8 +1,26 @@
 image::http://rmoff.net/images/2020/07/github_banner.jpg[]
 
+
 = `whoami`
 
-I'ma Principal Developer Advocate at Confluent, the company founded by the original creators of Apache Kafka, as well as an Oracle ACE Director (Alumnus). 
+I'm a Principal Developer Advocate at Confluent, the company founded by the original creators of Apache Kafka, as well as an Oracle ACE Director (Alumnus). 
+
+I love working with data and helping Developers get the best out of it and the surrounding ecosystem of tools. 
+
+As an experienced Developer Advocate I like to create content in various forms. Here are some exmaples: 
+
+* Speaking
+    ** https://www.youtube.com/watch?v=xHV1mGXV5Ds[Conference talks]
+    ** https://rmoff.net/2021/02/17/ksqldb-howto-a-mini-video-series/[Video explainers]
+* Code    
+    ** https://talks.rmoff.net/qrgjuz[In-depth demos using real-world data]
+    ** https://rmoff.net/2020/06/25/learning-golang-some-rough-notes-s01e00/[Teaching by learning]
+* Writing    
+    ** https://rmoff.net[Blog]
+    ** https://community.oracle.com/tech/apps-infra/discussion/4417657/obiee-performance-analytics-analysing-the-impact-of-suboptimal-report-design[Long form analysis]
+    ** https://www.infoq.com/articles/real-time-api-kafka/[Published articles]
+
+'''
 
 🗣️ I've been speaking at conferences since 2009 including QCon, Devoxx, Strata, Kafka Summit, and Øredev. You can find many of my talks online at http://rmoff.net/talks/
 
