@@ -6,8 +6,8 @@ I'ma Principal Developer Advocate at Confluent, the company founded by the origi
 
 🗣️ I've been speaking at conferences since 2009 including QCon, Devoxx, Strata, Kafka Summit, and Øredev. You can find many of my talks online at http://rmoff.net/talks/
 
-✍️ Blog: http://rmoff.net/
+✍️ Blog (personal): http://rmoff.net/
 
-✍️ Blog: http://cnfl.io/rmoff 
+✍️ Blog (employer): http://cnfl.io/rmoff 
 
 🎥 Youtube: https://www.youtube.com/c/rmoff
