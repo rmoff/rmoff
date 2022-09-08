@@ -7,7 +7,7 @@ I'm a Principal Developer Advocate at Confluent, the company founded by the orig
 
 I love working with data and helping Developers get the best out of it and the surrounding ecosystem of tools. 
 
-As an experienced Developer Advocate I like to create content in various forms. Here are some exmaples: 
+As an experienced Developer Advocate I like to create content in various forms. Here are some examples: 
 
 * Speaking
     ** https://www.youtube.com/watch?v=xHV1mGXV5Ds[Conference talks]
