@@ -13,7 +13,7 @@ As an experienced Developer Advocate I like to create content in various forms. 
     ** https://www.youtube.com/watch?v=xHV1mGXV5Ds[Conference talks]
     ** https://rmoff.net/2021/02/17/ksqldb-howto-a-mini-video-series/[Video explainers]
 * Code    
-    ** https://talks.rmoff.net/qrgjuz[In-depth demos using real-world data]
+    ** https://github.com/confluentinc/demo-scene/tree/master/maritime-ais[In-depth demo using real-world data] (see also https://talks.rmoff.net/qrgjuz[talk] / https://www.confluent.io/blog/streaming-etl-and-analytics-for-real-time-location-tracking/[blog])
     ** https://rmoff.net/2020/06/25/learning-golang-some-rough-notes-s01e00/[Teaching by learning]
 * Writing    
     ** https://rmoff.net[Blog]
