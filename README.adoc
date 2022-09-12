@@ -3,7 +3,7 @@ image::http://rmoff.net/images/2020/07/github_banner.jpg[]
 
 = `whoami`
 
-I'm a Principal Developer Advocate at Confluent, the company founded by the original creators of Apache Kafka, as well as an Oracle ACE Director (Alumnus). 
+I'm a Principal Developer Advocate at Confluent, as well as an Oracle ACE Director (Alumnus). 
 
 I love working with data and helping Developers get the best out of it and the surrounding ecosystem of tools. 
 
