@@ -3,7 +3,7 @@ image::http://rmoff.net/images/2020/07/github_banner.jpg[]
 
 = `whoami`
 
-I'm a Principal DevEx Engineer (👉🏻 [What Does This DevEx Engineer Do?](https://rmoff.net/2023/05/23/what-does-this-devex-engineer-do/))
+I'm a Principal DevEx Engineer (👉🏻 link:https://rmoff.net/2023/05/23/what-does-this-devex-engineer-do/[What Does This DevEx Engineer Do?])
 
 I love working with data and helping Developers get the best out of it and the surrounding ecosystem of tools. 
 
